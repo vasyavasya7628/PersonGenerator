@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\PersonGenerator.exe
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\PersonGenerator.deps.json
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\PersonGenerator.runtimeconfig.json
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\PersonGenerator.dll
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\PersonGenerator.pdb
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.dll
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\refint\PersonGenerator.dll
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.pdb
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\ref\PersonGenerator.dll
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\bin\Debug\net7.0\Bogus.dll
+C:\Users\User\RiderProjects\PersonGenerator\PersonGenerator\obj\Debug\net7.0\PersonGenerator.csproj.CopyComplete
